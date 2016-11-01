@@ -1,4 +1,4 @@
-Sitemap: https://journal-linux.github.io/sitemapindex.xml
+Sitemap: https://journal-rulinux.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: journal-linux.github.io
+Host: journal-rulinux.github.io

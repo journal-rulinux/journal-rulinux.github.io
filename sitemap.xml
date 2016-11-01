@@ -6,159 +6,159 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://journal-linux.github.io/</loc>
+  <loc>https://journal-rulinux.github.io/</loc>
   <lastmod>2016-11-01T17:12:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/2012/</loc>
+  <loc>https://journal-rulinux.github.io/2012/</loc>
   <lastmod>2016-11-01T17:12:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/2016/</loc>
+  <loc>https://journal-rulinux.github.io/2016/</loc>
   <lastmod>2016-11-01T17:12:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/archive.html</loc>
+  <loc>https://journal-rulinux.github.io/archive.html</loc>
+  <lastmod>2016-11-01T17:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/authors/</loc>
+  <lastmod>2016-11-01T17:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/authors/roberto-alsina/</loc>
+  <lastmod>2016-11-01T17:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/authors/rulinux-community/</loc>
+  <lastmod>2016-11-01T17:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/</loc>
   <lastmod>2016-11-01T17:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/authors/</loc>
+  <loc>https://journal-rulinux.github.io/categories/blog/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/cat_nikola/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/demo/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/nikola/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/python/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/categories/sort/</loc>
   <lastmod>2016-11-01T17:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/authors/roberto-alsina/</loc>
+  <loc>https://journal-rulinux.github.io/galleries/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/galleries/demo/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/listings/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/listings/__pycache__/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/listings/hello.py.html</loc>
+  <lastmod>2016-11-01T17:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/about-nikola/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/bootstrap-demo/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/charts/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/creating-a-theme/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/extending/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/handbook/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/internals/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/listings-demo/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/path-handlers/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/quickref/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/quickstart/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/slides-demo/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/social_buttons/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/pages/theming/</loc>
+  <lastmod>2016-11-01T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://journal-rulinux.github.io/posts/Chto_Takoe_Linux/</loc>
   <lastmod>2016-11-01T17:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/authors/rulinux-community/</loc>
+  <loc>https://journal-rulinux.github.io/posts/Statya_2_Pro_Rabochie_Okruzhenia/</loc>
   <lastmod>2016-11-01T17:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/categories/</loc>
+  <loc>https://journal-rulinux.github.io/posts/Statya_3_Ustanovka_Rosy/</loc>
   <lastmod>2016-11-01T17:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/categories/blog/</loc>
+  <loc>https://journal-rulinux.github.io/posts/testing-odt-files/</loc>
   <lastmod>2016-11-01T17:12:00Z</lastmod>
  </url>
  <url>
-  <loc>https://journal-linux.github.io/categories/cat_nikola/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/categories/demo/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/categories/nikola/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/categories/python/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/categories/sort/</loc>
-  <lastmod>2016-11-01T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/galleries/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/galleries/demo/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/listings/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/listings/__pycache__/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/listings/hello.py.html</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/about-nikola/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/bootstrap-demo/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/charts/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/creating-a-theme/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/extending/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/handbook/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/internals/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/listings-demo/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/path-handlers/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/quickref/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/quickstart/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/slides-demo/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/social_buttons/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/pages/theming/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/posts/Chto_Takoe_Linux/</loc>
-  <lastmod>2016-11-01T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/posts/Statya_2_Pro_Rabochie_Okruzhenia/</loc>
-  <lastmod>2016-11-01T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/posts/Statya_3_Ustanovka_Rosy/</loc>
-  <lastmod>2016-11-01T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/posts/testing-odt-files/</loc>
-  <lastmod>2016-11-01T17:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://journal-linux.github.io/posts/welcome-to-nikola/</loc>
+  <loc>https://journal-rulinux.github.io/posts/welcome-to-nikola/</loc>
   <lastmod>2016-11-01T17:12:00Z</lastmod>
  </url>
 </urlset>
