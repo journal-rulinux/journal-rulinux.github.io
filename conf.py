@@ -21,10 +21,10 @@ BLOG_AUTHOR = "rulinux community"  # (translatable)
 BLOG_TITLE = "rulinux"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://journal-linux.github.io/"
+SITE_URL = "https://journal-rulinux.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://journal-linux.github.io/"
+# BASE_URL = "https://journal-rulinux.github.io/"
 BLOG_EMAIL = "ya.rulinux@yandex.ru"
 BLOG_DESCRIPTION = "This is a russian linux online journal"  # (translatable)
 
