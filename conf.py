@@ -1246,3 +1246,10 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# Add the odt compiler to your COMPILERS dict.
+COMPILERS["odt"] = ('.odt',)
+
+# Add odt files to your POSTS, PAGES
+POSTS = POSTS + (("posts/*.odt", "posts", "post.tmpl"),)
+PAGES = PAGES + (("stories/*.odt", "posts", "post.tmpl"),)
