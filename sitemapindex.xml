@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://journal-rulinux.github.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2016-11-01T21:39:00Z</lastmod>
+  <lastmod>2016-11-01T21:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://journal-rulinux.github.io/authors/rulinux-community.xml</loc>
-  <lastmod>2016-11-01T21:39:00Z</lastmod>
+  <lastmod>2016-11-01T21:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://journal-rulinux.github.io/categories/blog.xml</loc>
@@ -51,6 +51,6 @@
  </sitemap>
  <sitemap>
   <loc>https://journal-rulinux.github.io/sitemap.xml</loc>
-  <lastmod>2016-11-01T21:39:00Z</lastmod>
+  <lastmod>2016-11-01T21:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>
