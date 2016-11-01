@@ -4,8 +4,6 @@ import os
 import io
 
 for filename in os.listdir('../odt'):
-    filename_without_extension = filename[:-4]
-    with io.FileIO(filename_without_extension + ".meta", "w") as file:
 
     line = """#+BEGIN_COMMENT
     .. title: {}
@@ -17,5 +15,9 @@ for filename in os.listdir('../odt'):
     .. description:
     .. type: text
 #+END_COMMENT\n""".format(filename, filename)
-    file.write(line)
+
+    filename_meta = filename[:-4] + ".meta"
+    with open(filename_meta, "w") as file:
+
+        file.write(line)
 
